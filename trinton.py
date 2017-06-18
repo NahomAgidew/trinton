@@ -1,10 +1,4 @@
-"""
-Gets tweets from twitter,
-Runs a sentiment analysis,
-and predicts the winner of the U.S. 2016 election.
 
-@author Nahom Abi
-"""
 
 #twitter API
 import tweepy
